@@ -7,7 +7,8 @@
 </head>
 <body>
     <h1>Welcome to customers page</h1>
-<p>document</p>
+     <p>document for customer</p>
+    
     <ul>
         <li><a href="attendant.php">Attendant page</a></li>
         <li><a href="customer.php">Customer page</a></li>
